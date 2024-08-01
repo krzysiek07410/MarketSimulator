@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSimulator", "MarketSimulator\MarketSimulator.csproj", "{77F808E7-2CD5-4435-A67F-77CC17442687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSimulatorTest", "MarketSimulatorTest\MarketSimulatorTest.csproj", "{30FC5DA0-2134-4D64-98FA-0B48BBD29964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F808E7-2CD5-4435-A67F-77CC17442687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F808E7-2CD5-4435-A67F-77CC17442687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F808E7-2CD5-4435-A67F-77CC17442687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F808E7-2CD5-4435-A67F-77CC17442687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FC5DA0-2134-4D64-98FA-0B48BBD29964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FC5DA0-2134-4D64-98FA-0B48BBD29964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FC5DA0-2134-4D64-98FA-0B48BBD29964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FC5DA0-2134-4D64-98FA-0B48BBD29964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
